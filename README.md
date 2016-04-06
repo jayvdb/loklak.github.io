@@ -24,3 +24,5 @@ Twitter:
 YouTube: https://www.youtube.com/channel/UCXbDoitUSy8u_1pUO93kiCw
 
 G+: https://plus.google.com/b/100484940238909889971/100484940238909889971
+
+LinkedIn: https://www.linkedin.com/company/loklak
