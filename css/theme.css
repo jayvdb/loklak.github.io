@@ -99,7 +99,7 @@ nav {
 .boxed-layout .nav-container,
 .boxed-layout nav,
 .boxed-layout .footer-container {
-  max-width: 1366px;
+  max-width: 100%;
   left: 0;
   right: 0;
   margin: 0 auto;
@@ -455,8 +455,8 @@ p a,
 nav .logo {
   max-height: 45px;
   max-width: 110px;
-  position: absolute;
-  top: -6px;
+  position: fixed;
+  top: 1.5%;
   opacity: 1;
 }
 nav .text-right {
@@ -767,7 +767,7 @@ nav .container {
   }
   nav .logo {
     max-width: 90px;
-    top: -2px;
+    top: 2%;
   }
   nav .logo-dark {
     opacity: 1 !important;
